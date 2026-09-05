@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Palak 👋
 
-<!--
-**Palak-Gemini/Palak-Gemini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer with 4 years of hands-on experience running enterprise Apache Airflow platforms on Azure Kubernetes Service (AKS). I focus on platform reliability, container orchestration, and cloud automation — and I'm currently building out my Infrastructure-as-Code skills with Terraform.
 
-Here are some ideas to get you started:
+- 🔧 Currently deepening: **Terraform, GitOps (ArgoCD)**
+- ☁️ Cloud: **Microsoft Azure** (AZ-104, AZ-204, AI-900 certified)
+- 🐳 Containers: **Kubernetes, Docker, Helm, Astronomer, Apache Airflow**
+- 🗄️ Databases: **PostgreSQL**
+- 📊 Monitoring: **Prometheus, Grafana**
+- 💻 Languages: **Python, SQL, Bash**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Projects
+
+| Project | What it does |
+|---|---|
+| [terraform-aks-cluster](#) | Provisions an AKS cluster with networking and RBAC using Terraform |
+| [aks-gitops-deploy](#) | Deploys a sample app to Kubernetes via ArgoCD (GitOps workflow) |
+| [airflow-pipeline-demo](#) | Python-based Airflow DAGs automating a sample data pipeline |
+
+## 📫 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/palak-gemini-4820b41a1) · palakgemini1999@gmail.com
